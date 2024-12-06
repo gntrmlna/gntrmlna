@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gntrmlna
-- 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning how to be good developer in front-end
+- 👀 I’m interested as QA Tester
+- 🌱 I’m currently learning how to be good QA Tester
 
 <!---
 gntrmlna/gntrmlna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
